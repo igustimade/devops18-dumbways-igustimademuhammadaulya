@@ -26,3 +26,5 @@
 <img width="1440" alt="Screenshot 2023-08-30 at 23 48 55" src="https://github.com/igustimade/devops18-dumbways-igustimademuhammadaulya/assets/143378795/8e290416-a0ce-41c5-aaa2-68a51b0a2b16">
 
 - Langkah terakhir harus melakukan pengecekan terhadap browser dengan menambahkan :3000 dibelakang ip server yang kita miliki (contoh: 192.168.1.5:3000).
+
+# 2. Deploy Golang & Python dengan menampilkan nama masing-masing
